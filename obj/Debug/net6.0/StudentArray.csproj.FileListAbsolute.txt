@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\StudentArray\StudentArray\obj\Debug\net6.0\StudentArray.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StudentArray\StudentArray\obj\Debug\net6.0\StudentArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StudentArray\StudentArray\obj\Debug\net6.0\StudentArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StudentArray\StudentArray\obj\Debug\net6.0\StudentArray.AssemblyInfo.cs
+C:\Users\user\source\repos\StudentArray\StudentArray\obj\Debug\net6.0\StudentArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StudentArray\StudentArray\bin\Debug\net6.0\StudentArray.exe
+C:\Users\user\source\repos\StudentArray\StudentArray\bin\Debug\net6.0\StudentArray.deps.json
+C:\Users\user\source\repos\StudentArray\StudentArray\bin\Debug\net6.0\StudentArray.runtimeconfig.json
+C:\Users\user\source\repos\StudentArray\StudentArray\bin\Debug\net6.0\StudentArray.dll
+C:\Users\user\source\repos\StudentArray\StudentArray\bin\Debug\net6.0\StudentArray.pdb
+C:\Users\user\source\repos\StudentArray\StudentArray\obj\Debug\net6.0\StudentArray.dll
+C:\Users\user\source\repos\StudentArray\StudentArray\obj\Debug\net6.0\refint\StudentArray.dll
+C:\Users\user\source\repos\StudentArray\StudentArray\obj\Debug\net6.0\StudentArray.pdb
+C:\Users\user\source\repos\StudentArray\StudentArray\obj\Debug\net6.0\StudentArray.genruntimeconfig.cache
+C:\Users\user\source\repos\StudentArray\StudentArray\obj\Debug\net6.0\ref\StudentArray.dll
